@@ -1,4 +1,4 @@
-# ☁️ Azure AI Learning Journey
+# ☁️ Azure AI
 
 > Explorando os principais serviços, ferramentas e conceitos de **Inteligência Artificial no Microsoft Azure**.
 
