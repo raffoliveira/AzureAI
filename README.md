@@ -11,19 +11,6 @@ O objetivo é consolidar o aprendizado e servir como referência para quem tamb�
 
 ---
 
-## 🧩 Estrutura do Repositório
-
-```bash
-azure-ai-learning/
-├── notebooks/          # Experimentos e exemplos práticos em Python
-├── docs/               # Materiais de apoio, anotações e resumos
-├── datasets/           # Dados utilizados nos exemplos (quando aplicável)
-├── images/             # Imagens usadas nos notebooks e docs
-└── README.md           # Você está aqui 🚀
-```
-
----
-
 ## 🧠 Tópicos Estudados
 
 🔹 **Azure AI Studio – Criação e deploy de modelos**
